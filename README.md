@@ -19,7 +19,7 @@ Have fun using it!
 - Shop system
 
 ### Getting started
-1. Clone the project `git clone https://github.com/leondeppe/discord_game_bot.git`
+1. Clone the project `git clone https://github.com/leondeppe/discordgamebot.git`
 2. Rename the folder to your server name in `Data/server_name`
 3. Set up your bot credentials in `Discord Game Bot/setup.py`
 4. Install required modules with `pip install -r requierements.txt`
