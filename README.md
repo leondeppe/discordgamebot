@@ -5,8 +5,8 @@
 
 ### About this project
 This is a discord bot, that I have created in python when I was 16/17. I'm not sure if it works anymore, but you can go ahead and try it out.
-If it is set up, every member on your server can type /daily to get some coins, which can then be used to gamble for dinosaurs, with which you can then fight.
-Have fun with it!
+If it is set up, every member on your server can type /daily to get some coins, which can then be used to gamble for dinosaurs, with which you can then fight with.
+Have fun using it!
 
 ### Features
 - Database System
